@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Poomalai
 
 Electronics Student @ KSR Institute For Engineering And Technology
-<img align="right" width="370" height="290" src="https://www.skyfilabs.com/blog/list-of-latest-electronics-circuit-mini-projects">
+<img align="right" width="100" height="100" src="https://www.skyfilabs.com/blog/list-of-latest-electronics-circuit-mini-projects">
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/poomalai-b-00778a262)                                            
 - 🌱 I’m currently learning Interner of Things
 - Social Media
