@@ -5,7 +5,7 @@ Electronics Student @ KSR Institute For Engineering And Technology
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/poomalai-b-00778a262)                                            
 - 🌱 I’m currently learning Interner of Things
 - Social Media
-<br /> [<img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/poomalai77) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/poomalai_005/)
+<br /> [<img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=black" />](https://x.com/poomalai77) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/poomalai_005/)
 
 
 ### I code in
