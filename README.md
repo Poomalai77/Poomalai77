@@ -3,7 +3,7 @@
 Electronics Student @ KSR Institute For Engineering And Technology
 <img align="right" width="340" height="340" src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/100/external-electronic-electronic-device-color-line-others-cattaleeya-thongsriphong-12.png" alt="external-electronic-electronic-device-color-line-others-cattaleeya-thongsriphong-12"/>
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/poomalai-b-00778a262)                                            
-- 🌱 I’m currently learning Interner of Things
+- 🌱 I’m currently learning Internet of Things
 - Social Media
 <br /> [<img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=black" />](https://x.com/poomalai77) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/poomalai_005/)
 
